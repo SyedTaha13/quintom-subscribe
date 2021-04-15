@@ -74,13 +74,13 @@
   font-size: 15px !important;
   text-transform: uppercase !important;
   font-weight: 500 !important;
-  margin-bottom: 5px !important;
+  margin: 15px 0 5px 0 !important;
   color: #343c45 ;
 
 }
 
 .input-field{
-  margin: 0 0 15px 0 !important;
+  margin: 0 0 0 0 !important;
   height: 45px !important;
   width: 100% !important;
   padding: 6px 12px !important;

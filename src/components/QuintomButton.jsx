@@ -4,7 +4,7 @@ import {Button} from 'antd'
 const QuintomButton = (props) =>{
 
     return(
-        <Button {...props} >{props.text}</Button>
+        <Button {...props} >{props.text || 'Subscribe'}</Button>
     )
 }
 
